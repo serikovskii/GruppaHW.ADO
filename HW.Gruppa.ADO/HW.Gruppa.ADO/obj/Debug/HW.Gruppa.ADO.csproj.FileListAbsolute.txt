@@ -1,0 +1,12 @@
+C:\Users\МукушевА.CORP\source\repos\HW.Gruppa.ADO\HW.Gruppa.ADO\bin\Debug\Database.mdf
+C:\Users\МукушевА.CORP\source\repos\HW.Gruppa.ADO\HW.Gruppa.ADO\bin\Debug\Database_log.ldf
+C:\Users\МукушевА.CORP\source\repos\HW.Gruppa.ADO\HW.Gruppa.ADO\bin\Debug\HW.Gruppa.ADO.exe.config
+C:\Users\МукушевА.CORP\source\repos\HW.Gruppa.ADO\HW.Gruppa.ADO\bin\Debug\HW.Gruppa.ADO.exe
+C:\Users\МукушевА.CORP\source\repos\HW.Gruppa.ADO\HW.Gruppa.ADO\bin\Debug\HW.Gruppa.ADO.pdb
+C:\Users\МукушевА.CORP\source\repos\HW.Gruppa.ADO\HW.Gruppa.ADO\bin\Debug\HW.Gruppa.ADO.DataAccess.dll
+C:\Users\МукушевА.CORP\source\repos\HW.Gruppa.ADO\HW.Gruppa.ADO\bin\Debug\HW.Gruppa.ADO.DataAccess.pdb
+C:\Users\МукушевА.CORP\source\repos\HW.Gruppa.ADO\HW.Gruppa.ADO\obj\Debug\HW.Gruppa.ADO.csprojAssemblyReference.cache
+C:\Users\МукушевА.CORP\source\repos\HW.Gruppa.ADO\HW.Gruppa.ADO\obj\Debug\HW.Gruppa.ADO.csproj.CoreCompileInputs.cache
+C:\Users\МукушевА.CORP\source\repos\HW.Gruppa.ADO\HW.Gruppa.ADO\obj\Debug\HW.Gruppa.ADO.csproj.CopyComplete
+C:\Users\МукушевА.CORP\source\repos\HW.Gruppa.ADO\HW.Gruppa.ADO\obj\Debug\HW.Gruppa.ADO.exe
+C:\Users\МукушевА.CORP\source\repos\HW.Gruppa.ADO\HW.Gruppa.ADO\obj\Debug\HW.Gruppa.ADO.pdb

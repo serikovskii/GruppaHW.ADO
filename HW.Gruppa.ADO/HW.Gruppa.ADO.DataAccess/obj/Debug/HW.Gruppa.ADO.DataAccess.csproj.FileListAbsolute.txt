@@ -1,0 +1,8 @@
+C:\Users\МукушевА.CORP\source\repos\HW.Gruppa.ADO\HW.Gruppa.ADO.DataAccess\bin\Debug\Database.mdf
+C:\Users\МукушевА.CORP\source\repos\HW.Gruppa.ADO\HW.Gruppa.ADO.DataAccess\bin\Debug\Database_log.ldf
+C:\Users\МукушевА.CORP\source\repos\HW.Gruppa.ADO\HW.Gruppa.ADO.DataAccess\bin\Debug\HW.Gruppa.ADO.DataAccess.dll
+C:\Users\МукушевА.CORP\source\repos\HW.Gruppa.ADO\HW.Gruppa.ADO.DataAccess\bin\Debug\HW.Gruppa.ADO.DataAccess.pdb
+C:\Users\МукушевА.CORP\source\repos\HW.Gruppa.ADO\HW.Gruppa.ADO.DataAccess\obj\Debug\HW.Gruppa.ADO.DataAccess.csprojAssemblyReference.cache
+C:\Users\МукушевА.CORP\source\repos\HW.Gruppa.ADO\HW.Gruppa.ADO.DataAccess\obj\Debug\HW.Gruppa.ADO.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\МукушевА.CORP\source\repos\HW.Gruppa.ADO\HW.Gruppa.ADO.DataAccess\obj\Debug\HW.Gruppa.ADO.DataAccess.dll
+C:\Users\МукушевА.CORP\source\repos\HW.Gruppa.ADO\HW.Gruppa.ADO.DataAccess\obj\Debug\HW.Gruppa.ADO.DataAccess.pdb
